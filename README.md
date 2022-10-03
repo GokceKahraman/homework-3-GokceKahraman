@@ -14,4 +14,8 @@
 - Todo'ların üstüne tıklanınca Detay sayfasına gidilicek, Bu sayfada Tamamlandı butonu olucak ve bu Butona tıklandığında Todo List sayfasına geri dönüş yapılıcaktır.
 - Tamamlandı butonuna basıldığı zaman, Todo List ekranında ilgili Todo Cellindeki image tick şaretine dönüşücektir.
 
- Arkadaşlar kolay gelsin :)
+
+![simulatorscreen1](https://user-images.githubusercontent.com/40842144/193542029-5e404052-b311-4e76-9c0b-b03b47b367d8.png)
+
+
+![simulatorscreen2](https://user-images.githubusercontent.com/40842144/193542121-7b6f5ee4-cbd5-4b23-9f68-5f2c59537739.png)
